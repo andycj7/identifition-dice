@@ -1,0 +1,15 @@
+release/main.o
+release/mainwindow.o
+release/identification.o
+release/readfilethread.o
+release/algorithmthread.o
+release/form2.o
+release/form1.o
+release/form3.o
+release/qrc_icon.o
+release/moc_mainwindow.o
+release/moc_form2.o
+release/moc_readfilethread.o
+release/moc_algorithmthread.o
+release/moc_form1.o
+release/moc_form3.o

@@ -1,0 +1,15 @@
+debug/main.o
+debug/mainwindow.o
+debug/identification.o
+debug/readfilethread.o
+debug/algorithmthread.o
+debug/form2.o
+debug/form1.o
+debug/form3.o
+debug/qrc_icon.o
+debug/moc_mainwindow.o
+debug/moc_form2.o
+debug/moc_readfilethread.o
+debug/moc_algorithmthread.o
+debug/moc_form1.o
+debug/moc_form3.o
